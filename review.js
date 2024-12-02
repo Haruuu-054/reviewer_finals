@@ -16,10 +16,10 @@ const PORT = process.env.PORT || 5000;
 
 // MySQL connection
 const connection = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: '',
-    database: 'employee',
+    host: 'bayokrweqei50fmsc0zo-mysql.services.clever-cloud.com',
+    user: 'ulcvf2kakmhlx92e',
+    password: 'ulcvf2kakmhlx92e',
+    database: 'bayokrweqei50fmsc0zo',
 });
 
 // Connect to MySQL
