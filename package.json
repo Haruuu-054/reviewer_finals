@@ -1,9 +1,9 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "main": "src/review.js", // Ensure this matches the actual location of `review.js`
+  "main": "review.js", // Ensure this matches the actual location of `review.js`
   "scripts": {
-    "start": "node src/review.js" // Explicitly define the entry file in the start script
+    "start": "node review.js" // Explicitly define the entry file in the start script
   },
   "keywords": [],
   "author": "",
